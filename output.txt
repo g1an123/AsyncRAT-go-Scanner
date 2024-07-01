@@ -1,0 +1,7 @@
+[+] 195.3.223.146:4443 心跳包回显
+[+] 195.3.223.146:4442 心跳包回显
+[+] 195.3.223.146:4442 'AsyncRAT' found in TLS handshake using TLS 1.0.
+[+] 195.3.223.146:4443 'AsyncRAT' found in TLS handshake using TLS 1.0.
+[+] 104.234.195.153:8888 心跳包回显
+[+] 104.234.195.153:8888 'AsyncRAT' found in TLS handshake using TLS 1.0.
+总运行时长: 15.034276294s
