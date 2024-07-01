@@ -6,7 +6,9 @@ AsyncRAT Server 公网探测
 保留
 1. TLS证书
 2. ping包
+
 jarm检测相对耗时，故暂时去掉。
+
 ## 使用方法
 
 在target.txt port.txt中分别输入检测的ip和端口。
